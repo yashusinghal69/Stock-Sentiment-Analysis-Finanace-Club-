@@ -1,0 +1,14 @@
+yfinance
+bs4
+request
+yahoofinancials
+lxml
+re
+nltk
+spacy
+gensim
+scikit-learn
+textblob
+scipy==1.12
+transformers 
+torch
